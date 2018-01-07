@@ -7,6 +7,9 @@ git init
 
 # add file to repository
 git add index.html
+git commit -m "message"
+#or git commit --message="message"
+
 
 # as its name
 git status
