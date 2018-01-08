@@ -30,3 +30,16 @@ git rm index.html
 
 git clone url
 git clone oldRepository newRepository
+
+#start a new branch
+git branch branchName [start-commit]
+
+#list branch
+git branch
+git show-branch
+
+#change current branch
+git checkout
+
+
+
