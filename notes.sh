@@ -51,7 +51,7 @@ git merge branchName
 #show in graph
 git log --graph
 
-git pull
+git pull 
 
 
 
