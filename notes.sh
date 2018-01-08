@@ -45,11 +45,27 @@ git checkout branchName
 #delete branch
 git branch -d branchName
 
-=======
-git checkout
->>>>>>> bug
+#merge 'branchName' to recent branch
+git merge branchName
 
-testing
+#show in graph
+git log --graph
+
+git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
