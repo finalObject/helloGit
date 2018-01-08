@@ -39,11 +39,15 @@ git branch
 git show-branch
 
 #change current branch
+<<<<<<< HEAD
 git checkout branchName
 
 #delete branch
 git branch -d branchName
 
+=======
+git checkout
+>>>>>>> bug
 
 
 
